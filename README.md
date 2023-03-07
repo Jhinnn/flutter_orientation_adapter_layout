@@ -1,17 +1,12 @@
 # orientation_adapter_layout
 
-A new Flutter project.
 
-## Getting Started
+#Orientation.portrait
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-07 at 16 10 51](https://user-images.githubusercontent.com/17973224/223362665-42ed9b91-418a-41f1-953a-099a6753f34a.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_orientation_adapter_layout
+#Orientation.landscape
+
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-03-07 at 16 10 58](https://user-images.githubusercontent.com/17973224/223363007-7fc9466d-421d-49fc-9d59-a869f51a31da.png)
